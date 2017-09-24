@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#17113a</color>
+  <color name="colorPrimaryDark">#17113a</color>
+  <color name="colorAccent">#FF4081</color>
+  <color name="profile_pic">#4b84db</color>
+  <color name="accuracy_circle_stroke">#968ef0</color>
+  <color name="accuracy_circle_fill">#b8b3f2</color>
+  <color name="speed_circle_stroke">#e69f2f</color>
+  <color name="speed_circle_fill">#edbe72</color>
+</resources>
